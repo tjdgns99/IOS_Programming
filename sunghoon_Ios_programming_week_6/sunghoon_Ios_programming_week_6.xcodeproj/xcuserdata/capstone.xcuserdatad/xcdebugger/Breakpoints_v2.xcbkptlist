@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9A2AFB53-8484-4967-9076-E2FF4E9D4783"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C469E7A1-3AF5-4F71-8FD6-4C61152CBB03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sunghoon_Ios_programming_week_6/CityViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "CityViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C469E7A1-3AF5-4F71-8FD6-4C61152CBB03 - b90e0e21abcabd14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sunghoon_Ios_programming_week_6.CityViewController.cityPickerview.getter : Swift.Optional&lt;__C.UIPickerView&gt;"
+                  moduleName = "sunghoon_Ios_programming_week_6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/capstone/Desktop/IOS%20Programming/Practice/sunghoon_Ios_programming_week_6/sunghoon_Ios_programming_week_6/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C469E7A1-3AF5-4F71-8FD6-4C61152CBB03 - e3734b5aa2f74500"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sunghoon_Ios_programming_week_6.CityViewController.cityPickerview.setter : Swift.Optional&lt;__C.UIPickerView&gt;"
+                  moduleName = "sunghoon_Ios_programming_week_6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/capstone/Desktop/IOS%20Programming/Practice/sunghoon_Ios_programming_week_6/sunghoon_Ios_programming_week_6/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "C469E7A1-3AF5-4F71-8FD6-4C61152CBB03 - 27a61d003f5ca714"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sunghoon_Ios_programming_week_6.CityViewController.cityPickerview.modify : Swift.Optional&lt;__C.UIPickerView&gt;"
+                  moduleName = "sunghoon_Ios_programming_week_6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/capstone/Desktop/IOS%20Programming/Practice/sunghoon_Ios_programming_week_6/sunghoon_Ios_programming_week_6/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "C469E7A1-3AF5-4F71-8FD6-4C61152CBB03 - eef561a14bc0766c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sunghoon_Ios_programming_week_6.CityViewController.cityPickerview.modify : Swift.Optional&lt;__C.UIPickerView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "sunghoon_Ios_programming_week_6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/capstone/Desktop/IOS%20Programming/Practice/sunghoon_Ios_programming_week_6/sunghoon_Ios_programming_week_6/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "C469E7A1-3AF5-4F71-8FD6-4C61152CBB03 - d247710b5f7280a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sunghoon_Ios_programming_week_6.CityViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; sunghoon_Ios_programming_week_6.CityViewController"
+                  moduleName = "sunghoon_Ios_programming_week_6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/capstone/Desktop/IOS%20Programming/Practice/sunghoon_Ios_programming_week_6/sunghoon_Ios_programming_week_6/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "C469E7A1-3AF5-4F71-8FD6-4C61152CBB03 - ce711a7d99fd2ce4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sunghoon_Ios_programming_week_6.CityViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;sunghoon_Ios_programming_week_6.CityViewController&gt;"
+                  moduleName = "sunghoon_Ios_programming_week_6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/capstone/Desktop/IOS%20Programming/Practice/sunghoon_Ios_programming_week_6/sunghoon_Ios_programming_week_6/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16BBE613-58F3-4554-B4C0-98850458418E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sunghoon_Ios_programming_week_6/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

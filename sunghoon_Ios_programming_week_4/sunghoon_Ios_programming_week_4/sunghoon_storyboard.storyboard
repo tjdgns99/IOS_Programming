@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="tpV-mx-Z12">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="GSv-vJ-FTK">
+            <objects>
+                <viewController id="tpV-mx-Z12" customClass="ViewController" customModule="sunghoon_Ios_programming_week_4" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Lqy-er-a68">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MUF-3G-WvF">
+                                <rect key="frame" x="20" y="144" width="82" height="36"/>
+                                <color key="backgroundColor" systemColor="systemGreenColor" red="0.20392156859999999" green="0.78039215689999997" blue="0.34901960780000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="10" id="whD-oZ-Gfd"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="xVL-z2-jgc">
+                                <rect key="frame" x="110" y="139.5" width="284" height="45.5"/>
+                                <color key="backgroundColor" systemColor="systemOrangeColor" red="1" green="0.58431372550000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="xVL-z2-jgc" firstAttribute="centerY" secondItem="MUF-3G-WvF" secondAttribute="centerY" id="37F-jN-YQF"/>
+                            <constraint firstItem="MUF-3G-WvF" firstAttribute="top" secondItem="V4U-XI-Ztb" secondAttribute="top" constant="100" id="FwR-xg-d9v"/>
+                            <constraint firstItem="xVL-z2-jgc" firstAttribute="leading" secondItem="MUF-3G-WvF" secondAttribute="trailing" constant="8" id="LMb-WF-Nqx"/>
+                            <constraint firstItem="V4U-XI-Ztb" firstAttribute="trailing" secondItem="xVL-z2-jgc" secondAttribute="trailing" constant="20" id="daO-fS-rsD"/>
+                            <constraint firstItem="xVL-z2-jgc" firstAttribute="width" secondItem="MUF-3G-WvF" secondAttribute="width" multiplier="2" constant="120" id="j2o-gv-dUh"/>
+                            <constraint firstItem="MUF-3G-WvF" firstAttribute="leading" secondItem="V4U-XI-Ztb" secondAttribute="leading" constant="20" id="x8X-fP-ikz"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="V4U-XI-Ztb"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="T4L-wQ-bDV" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="131.8840579710145" y="128.57142857142856"/>
+        </scene>
+    </scenes>
+</document>
