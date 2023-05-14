@@ -29,7 +29,7 @@ class ChatViewController: UIViewController{
     }
     
     @IBAction func querybutton(_ sender: Any) {
-        let apiKey = "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"
+        let apiKey = "apikey"
         let site = "https://api.openai.com/v1/engines/curie/completions"
         
         let parameters: [String: Any] = [

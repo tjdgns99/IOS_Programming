@@ -26,7 +26,7 @@ class MapViewController: UIViewController {
     }
     @IBOutlet weak var mapView: MKMapView!
     let baseURLString = "https://api.openweathermap.org/data/2.5/weather"
-    let apiKey = "291f54eed36e83265d0c4dfd4c4c490a"
+    let apiKey = "apikey"
     override func viewDidLoad() {
         super.viewDidLoad()
         print("MapViewController.viewDidLoad")
